@@ -238,16 +238,23 @@ main{
 footer{
     width: 100%;
     margin-top: 40px;
+    padding: 10px 0;
     background-color: #f80174;
 }
+footer a{
+    color: #fff;
+}
 footer ul{
-    list-style: none;
     display: flex;
-    justify-content: space-evenly;
+    list-style: none;
+    justify-content: center;
     align-items: center;
+    gap: 20px;
     font-size: 36px;
     font-weight: bold;
-    color: #fff;
+}
+footer ul .fa-brands{
+    font-size: 56px;
 }
 @media screen and (max-width: 720px) {
     header nav ul:not(.lista-carrito){
