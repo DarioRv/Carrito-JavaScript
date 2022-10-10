@@ -4,7 +4,7 @@ Página web implementando el clasico carrito de compras
 
 ## ¿De que trata?
 Este proyecto trata de incorporar un carrito de compras a un sitio web de compras, pudiendo así confeccionar una lista de los productos que el cliente desea pedir. <br>
-*Cabe aclarar que la página web donde es implementado pertenece a una porcial de mi proyecto de sitio web ecommerce*.
+*Cabe aclarar que la página web donde es implementado pertenece a una página parcial de mi proyecto de sitio web ecommerce*.
 
 ## ¿Cómo funciona?
  - El usuario podrá en cualquier momento hacer click en el botón del producto elegido para que este se pueda agregar al carrito.
