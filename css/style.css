@@ -234,6 +234,7 @@ main{
     color: #000;
     display: none;
     transition: .3s ease-in-out;
+    bottom: 30px;
 }
 footer{
     width: 100%;
